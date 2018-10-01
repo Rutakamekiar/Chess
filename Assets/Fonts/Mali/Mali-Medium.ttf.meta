@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9a816a7151c09cc43b4d5a4928df8e09
+timeCreated: 1538257690
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mali Medium
+  fontNames:
+  - Mali Medium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0cb9a219ce2dbb8458f8b8bce589678b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

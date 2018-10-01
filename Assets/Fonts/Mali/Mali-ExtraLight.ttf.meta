@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c9f3afd326f97064c86dbd1291519aac
+timeCreated: 1538257691
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mali ExtraLight
+  fontNames:
+  - Mali ExtraLight
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bbfee252685461245a43b091f9b1ce12, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
